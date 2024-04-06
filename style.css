@@ -515,6 +515,9 @@ body {
 }
 
 @media screen and (max-width: 640px) {
+  .pg-1-hd {
+    font-size: 2rem;
+  }
   .footer {
     position: relative;
     left: -10px;
